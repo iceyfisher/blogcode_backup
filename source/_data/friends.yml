@@ -1,15 +1,16 @@
-- group: # 分组标题
-  description:  # 分组描述
+- group: 大佬の垂青 # 分组标题
+  description: 大家都好厉害 (￣▽￣) # 分组描述
   items:
-    - title: # 名称
-      avatar: # 头像
-      url: # 链接
-      screenshot: # 截图
-      keywords: # 关键词
-      description: # 描述
-    - title: # 名称
-      avatar: # 头像
-      url: # 链接
-      screenshot: # 截图
-      keywords: # 关键词
-      description: # 描述
+    - title: TLP # 名称
+      avatar: https://pic1.imgdb.cn/item/68cd11fac5157e1a881bc101.png # 头像
+      url: https://site.tlp.ddns-ip.net/ # 链接
+      screenshot: https://pic1.imgdb.cn/item/68cd1359c5157e1a881bcde3.jpg # 截图
+      keywords: 原来是acm✌ # 关键词
+      description:  # 描述    
+      
+    - title: Sam Sheng # 名称
+      avatar: https://pic1.imgdb.cn/item/68cd16aac5157e1a881bdf69.png # 头像
+      url: https://mr-thiol.github.io/ # 链接
+      screenshot: https://pic1.imgdb.cn/item/68cd1787c5157e1a881be4b6.jpg # 截图
+      keywords: 原来是化学大牛 # 关键词
+      description:  # 描述
